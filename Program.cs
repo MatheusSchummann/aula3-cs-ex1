@@ -21,8 +21,6 @@ namespace Aulap3
             List<string> list = new List<string>();
             List<double> list2 = new List<double>();
 
-            convertor.transferirdouble(list);
-
             for (int i = 0; i < 3; i++)
             {
                 Console.Write("Digite a nota 0{0}: ", i + 1);
