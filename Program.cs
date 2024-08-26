@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Aulap3
 {
+    
+    /* Escreva um programa em C# que leia 3 notas de um aluno, e escreva sua média 
+    aritmética. As notas são valores decimais.*/
+    
     internal class Program
     {
         static void Main(string[] args)
